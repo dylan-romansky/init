@@ -1,0 +1,2 @@
+nat (10.90.1.11) is the device that talks to the outside net.
+nat is Network Address Translation which modifies address info as packets get sent to different domains. This is also the point where the listed addresses go from local to public so it seems like a safe guess

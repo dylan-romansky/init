@@ -1,0 +1,8 @@
+got the ip address by pinging the url: 99.84.201.118
+
+used whois to find a bunch of info.
+grep out the OrgName
+
+whois <ip> | grep OrgName
+
+it's Amazon.com Inc.

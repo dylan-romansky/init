@@ -1,0 +1,6 @@
+open -a "Google Chrome" https://play.spotify.com
+open -a "Google Chrome" https://facebook.com
+open -a "Google Chrome" https://discordapp.com/login
+open -a "Google Chrome" https://42schoolsiliconvalley.slack.com
+open -a "Google Chrome" https://profile.intra.42.fr/
+open -a "Google Chrome" https://twitter.com

@@ -1,0 +1,4 @@
+keys must first be generated via some variation of ssh-keygen
+I've seen some people suggest ssh-keygen -t rsa as -t specifies the
+key type so you can make a proper rsa key
+the default location they are saved to is ~/.ssh/id_rsa
